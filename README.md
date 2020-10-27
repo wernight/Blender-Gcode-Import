@@ -1,6 +1,6 @@
 # Blender-Gcode-Import
 Having access to the toolspaths directly let's you do some interesting things conventional slicers can't do.
-I've been using the importer in conjunction with <a href="https://github.com/alessandro-zomparelli/gcode-exporter">Alessandro Zomperellis Gcode export</a> for Blender.
+I've been using the importer in conjunction with <a href="https://github.com/alessandro-zomparelli/gcode-exporter">Alessandro Zomparelli's Gcode exporter</a> for Blender.
 
 
 For some Blender operations it helps if the paths are evenly subdivided to give some modifiers the necessary resolution.
