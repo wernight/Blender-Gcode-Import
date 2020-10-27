@@ -1,7 +1,4 @@
 # Blender-Gcode-Import
-Import G-code from slicer to Blender paths
-
-
 Having access to the toolspaths directly let's you do some interesting things conventional slicers can't do.
 I've been using the importer in conjunction with Alessandro Zomperellis Gcode exporter for Blender.
 
