@@ -11,8 +11,8 @@ Use the 'subdivide' option in the importer for that.
 
 Another option is to split the layers into single Blender objects, makes editing or animating them easier.
 
+<img src=https://raw.githubusercontent.com/Heinz-Loepmeier/Blender-Gcode-Import/master/docs/import.gif>
 
-Here are some examples of Blenders internal tools for path manipulation.
 
 
 
