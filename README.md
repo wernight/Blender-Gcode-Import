@@ -13,7 +13,7 @@ You can find some more examples <a href="https://github.com/Heinz-Loepmeier/Blen
 <img src=https://raw.githubusercontent.com/Heinz-Loepmeier/Blender-Gcode-Import/master/docs/import.gif>
 
 ### Compatibility
-Add-On works with Blender 2.8. I tested with G-code from Slic3r and Cura.
+Add-On works with Blender 2.8. I tested with G-code from Slic3r and Cura.  
 All G1 and G0 commands with an E-value get drawn as an edge.
 
 
