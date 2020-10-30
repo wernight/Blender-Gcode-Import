@@ -10,7 +10,7 @@ Use the 'subdivide' option in the importer for that.
 Another option is to split the layers into single Blender objects, makes editing or animating them easier.  
 You can find some more examples <a href="https://github.com/Heinz-Loepmeier/Blender-Gcode-Import/wiki">in the wiki.</a> (16MB of .gifs)
 
-<img src=https://raw.githubusercontent.com/Heinz-Loepmeier/Blender-Gcode-Import/master/docs/import.gif>
+<img src=https://raw.githubusercontent.com/Heinz-Loepmeier/wiki-sources/main/gcode-importer-docs/import.gif>
 
 ### Compatibility
 Add-On works with Blender 2.8. I tested with G-code from Slic3r and Cura.  
